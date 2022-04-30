@@ -1,4 +1,7 @@
 # **Webpack Starter**
 
-APP WEB TODO LIST CON LOCALSTORAGE
+App Web TODO LIST 
+
+## Description
+App web create whit webpack 
 
